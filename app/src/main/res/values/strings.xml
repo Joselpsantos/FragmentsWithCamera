@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Fragments With Camera</string>
+    <string name="fragment_three">Gps</string>
+    <string name="fragment_two">Gallery</string>
+    <string name="fragment_one">Camera</string>
+    <string name="take_photo">Take photo</string>
 </resources>
