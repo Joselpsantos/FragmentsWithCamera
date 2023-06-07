@@ -4,4 +4,5 @@
     <string name="fragment_two">Gallery</string>
     <string name="fragment_one">Camera</string>
     <string name="take_photo">Take photo</string>
+    <string name="get_gps">Get location</string>
 </resources>
